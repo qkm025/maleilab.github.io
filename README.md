@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
@@ -45,11 +44,10 @@
 </head>
 <body>
     <div class="content-section">
-        <h1>Insight Lab</h1>
         <div class="float-container">
             <img src="images/home/47915613.jpg" alt="马雷" class="float-left" style="width: 200px;">
             <div>
-                <h2>马雷</h2>
+                <h1>马雷</h1>
                 <p>北京大学国家生物医学成像科学中心 研究员（PI）、博士生导师</p>
                 <p>北京市杰出青年</p>
                 <p>2025-2026 博古睿学者</p>
@@ -70,7 +68,7 @@
     <div class="content-section">
         <h1>Research</h1>
         
-        <h2>1. Nature Computational Science 期刊封面 - 国际首个秀丽线虫闭环仿真模型</h2>
+        <h3>1. Nature Computational Science 期刊封面 - 国际首个秀丽线虫闭环仿真模型</h3>
         <div class="float-container">
             <img src="images/home/57934934.jpg" alt="Nature Computational Science期刊封面" class="float-left" style="width: 600px;">
             <div>
@@ -79,7 +77,7 @@
             </div>
         </div>
 
-        <h2>2. Cell Research 期刊封面 - 脑解码：SCN神经元集群时间编码模型</h2>
+        <h3>2. Cell Research 期刊封面 - 脑解码：SCN神经元集群时间编码模型</h3>
         <div class="float-container">
             <img src="images/home/57932339.png" alt="Cell Research期刊封面" class="float-left" style="width: 600px;">
             <div>
@@ -126,11 +124,11 @@
     <div class="content-section">
         <h1>Opportunities</h1>
         
-        <h2>1. 研究生</h2>
+        <h3>1. 研究生</h3>
         <p>我们正在积极寻找优秀的学生加入我们的课题组，研究领域包括但不限于：计算生物学、人工智能、计算机图形学、计算机视觉。</p>
         <p>课题组尚有26年硕士起点博士名额，有意者联系<a href="mailto:lei.ma@pku.edu.cn">lei.ma@pku.edu.cn</a></p>
         
-        <h2>2. 博士后研究员</h2>
+        <h3>2. 博士后研究员</h3>
         <p>我们正在招聘 数字生命/生物医学大模型/软件开发 方向的博士后研究员，有意者可联系<a href="mailto:lei.ma@pku.edu.cn">lei.ma@pku.edu.cn</a>或者<a href="mailto:jie.sun@pku.edu.cn">jie.sun@pku.edu.cn</a></p>
         <p>具体招聘信息参考链接：<a href="#">北京大学未来技术学院马雷课题组招聘博士后</a></p>
     </div>
