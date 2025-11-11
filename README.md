@@ -1,130 +1,64 @@
-<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Insight Lab - 马雷研究员</title>
+    <title>Insight Lab</title>
     <style>
-        * {
-            box-sizing: border-box;
-        }
-        
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
-            margin: 0;
+            margin: 0 auto;
             padding: 20px;
             color: #333;
-            background-color: #f8f9fa;
             max-width: 1200px;
-            margin-left: auto;
-            margin-right: auto;
         }
-        
-        .container {
-            background-color: white;
-            border-radius: 8px;
-            box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1);
-            padding: 30px;
+        .content-section {
             margin-bottom: 30px;
         }
-        
         .float-container {
             overflow: hidden;
             margin: 10px 0;
         }
-        
         .float-left {
             float: left;
             margin-right: 20px;
         }
-        
         h1 {
             color: #2c3e50;
             border-bottom: 2px solid #3498db;
             padding-bottom: 10px;
-            margin-top: 0;
         }
-        
         h2 {
             color: #34495e;
         }
-        
-        h3 {
-            color: #2c3e50;
-            margin-top: 25px;
-        }
-        
         a {
             color: #2980b9;
             text-decoration: none;
-            transition: color 0.3s;
         }
-        
         a:hover {
-            color: #1a5276;
             text-decoration: underline;
         }
-        
         .publication-item {
             margin-bottom: 15px;
-            padding: 10px;
-            border-left: 3px solid #3498db;
-            background-color: #f8f9fa;
         }
-        
-        .contact-info {
-            background-color: #e8f4fc;
-            padding: 15px;
-            border-radius: 5px;
-            margin-top: 20px;
+        /* 调整图片大小以适应更宽的布局 */
+        .float-container img {
+            max-width: 100%;
+            height: auto;
         }
-        
-        /* 响应式设计 */
-        @media (max-width: 768px) {
-            .float-left {
-                float: none;
-                display: block;
-                margin: 0 auto 15px;
-                text-align: center;
-            }
-            
-            img {
-                max-width: 100%;
-                height: auto;
-            }
-            
-            body {
-                padding: 10px;
-            }
-            
-            .container {
-                padding: 15px;
-            }
+        /* 针对不同内容区域的图片调整 */
+        .profile-image {
+            width: 220px; /* 稍微增加头像大小 */
         }
-        
-        /* 打印样式 */
-        @media print {
-            body {
-                background-color: white;
-                max-width: 100%;
-            }
-            
-            .container {
-                box-shadow: none;
-                border: 1px solid #ddd;
-            }
-            
-            a {
-                color: #333;
-            }
+        .research-image {
+            width: 680px; /* 增加研究图片大小 */
         }
     </style>
 </head>
 <body>
-    <div class="container">
+    <div class="content-section">
         <div class="float-container">
-            <img src="images/home/47915613.jpg" alt="马雷" class="float-left" style="width: 200px; max-width: 100%;">
+            <img src="images/home/47915613.jpg" alt="马雷" class="float-left profile-image">
             <div>
                 <h1>马雷</h1>
                 <p>北京大学国家生物医学成像科学中心 研究员（PI）、博士生导师</p>
@@ -132,27 +66,24 @@
                 <p>2025-2026 博古睿学者</p>
                 <p>北京智源人工智能研究院 智源学者</p>
                 <p>国家重大科技基础设施- "多模态跨尺度生物医学成像设施" 装置四负责人</p>
-                
-                <div class="contact-info">
-                    <p><strong>邮箱：</strong><a href="mailto:lei.ma@pku.edu.cn">lei.ma@pku.edu.cn</a></p>
-                    <p><strong>地址：</strong>北京市海淀区颐和园路5号北京大学王克桢楼209</p>
-                </div>
+                <p>邮箱：<a href="mailto:lei.ma@pku.edu.cn">lei.ma@pku.edu.cn</a></p>
+                <p>地址：北京市海淀区颐和园路5号北京大学王克桢楼209</p>
             </div>
         </div>
     </div>
 
-    <div class="container">
+    <div class="content-section">
         <h1>Short Bio</h1>
         <p>马雷博士的研究方向为人工智能与数字生命。共计发表学术论文近70篇。近三年以第一或通讯在Nature Computational Science(2024、封面文章)、Cell Research(2024、封面文章）、National Science Review（2025）、MIA（2024）、Nature Communications(2023)、ACM/IEEE汇刊等国际期刊及CVPR、NIPS、ECCV等人工智能会议发表32篇论文，代表工作包括数据驱动秀丽线虫"天宝"、精细神经元动力学快速求解算法、SCN神经元集群时间编码模型、神经形态相机等。承担"科技创新2030"重大项目课题（2022）、北京市科技计划（2023）、北京市杰出青年科学基金（2024）、北京市非共识项目（第一批、2025）等多个重要项目。</p>
         <p>课题组尚有26年硕士起点博士名额，有意者联系<a href="mailto:lei.ma@pku.edu.cn">lei.ma@pku.edu.cn</a></p>
     </div>
 
-    <div class="container">
+    <div class="content-section">
         <h1>Research</h1>
         
         <h3>1. Nature Computational Science 期刊封面 - 国际首个秀丽线虫闭环仿真模型</h3>
         <div class="float-container">
-            <img src="images/home/57934934.jpg" alt="Nature Computational Science期刊封面" class="float-left" style="width: 600px; max-width: 100%;">
+            <img src="images/home/57934934.jpg" alt="Nature Computational Science期刊封面" class="float-left research-image">
             <div>
                 <p>秀丽线虫是生命科学研究的重要模式动物之一，常被用于研究神经系统的工作机制。当前脑科学研究侧重解析神经系统的局部工作机制，如何整合大脑不同层级的细节，进而构建完整的生物体仿真一直是领域内的重大挑战。</p>
                 <p>马雷团队首次实现了线虫神经网络模型与身体环境模型的闭环交互仿真，完整模拟了秀丽线虫的大脑、身体与环境的动态相互作用（Nature Computational Science 2024，12月封面文章，编辑推荐，期刊同期发表Research Briefing 报道）。</p>
@@ -161,15 +92,15 @@
 
         <h3>2. Cell Research 期刊封面 - 脑解码：SCN神经元集群时间编码模型</h3>
         <div class="float-container">
-            <img src="images/home/57932339.png" alt="Cell Research期刊封面" class="float-left" style="width: 600px; max-width: 100%;">
+            <img src="images/home/57932339.png" alt="Cell Research期刊封面" class="float-left research-image">
             <div>
                 <p>视交叉上核（Suprachiasmatic Nucleus, SCN）是哺乳动物昼夜节律的中枢，现有研究主要聚焦于个体神经元的分子节律机制，系统层面如何编码时间仍然未解。马雷与合作者结合新型高速双视角双光子显微镜成像技术和机器学习技，提出了SCN群体决策与空间模块化特征表示的新概念，为生物钟的系统设计提供了全新视角（Cell Research (2024)）。</p>
             </div>
         </div>
     </div>
 
-    <div class="container">
-        <h1>Selected Publications [Full List]</h1>
+    <div class="content-section">
+        <h1>Selected Publications[Full List]</h1>
         <p>(# Equal Contribution, *Corresponding Author)</p>
         
         <div class="publication-item">
@@ -203,7 +134,7 @@
         </div>
     </div>
 
-    <div class="container">
+    <div class="content-section">
         <h1>Opportunities</h1>
         
         <h3>1. 研究生</h3>
@@ -215,12 +146,10 @@
         <p>具体招聘信息参考链接：<a href="#">北京大学未来技术学院马雷课题组招聘博士后</a></p>
     </div>
 
-    <div class="container">
-        <div class="contact-info">
-            <p><strong>联系方式：</strong></p>
-            <p>邮箱：<a href="mailto:lei.ma@pku.edu.cn">lei.ma@pku.edu.cn</a></p>
-            <p>地址：北京市海淀区颐和园路5号北京大学王克桢楼209</p>
-        </div>
+    <div class="content-section">
+        <p><strong>联系方式：</strong></p>
+        <p>邮箱：<a href="mailto:lei.ma@pku.edu.cn">lei.ma@pku.edu.cn</a></p>
+        <p>地址：北京市海淀区颐和园路5号北京大学王克桢楼209</p>
     </div>
 </body>
 </html>
