@@ -3,7 +3,7 @@
   <img src="images/home/47915613.jpg" alt="图片描述" style="float: left; width: 200px; margin-right: 20px;">
   
   <div>
-    # 马雷
+    <h1>马雷</h1>
     <p>北京大学国家生物医学成像科学中心  研究员（PI）、博士生导师</p>
     <p>北京市杰出青年</p>
     <p>2025-2026  博古睿学者</p>
@@ -30,7 +30,7 @@
 1. Nature Computational Science 期刊封面 - 国际首个秀丽线虫闭环仿真模型
 
 <div style="overflow: hidden; margin: 10px 0;">
-  <img src="images/home/57934934.jpg" alt="图片描述" style="float: left; width: 400px; margin-right: 20px;">
+  <img src="images/home/57934934.jpg" alt="图片描述" style="float: left; width: 600px; margin-right: 20px;">
   
   <div>
     <p>秀丽线虫是生命科学研究的重要模式动物之一，常被用于研究神经系统的工作机制。当前脑科学研究侧重解析神经系统的局部工作机制，如何整合大脑不同层级的细节，进而构建完整的生物体仿真一直是领域内的重大挑战。</p>
@@ -47,7 +47,7 @@
 2. Cell Research 期刊封面 - 脑解码：SCN神经元集群时间编码模型
 
 <div style="overflow: hidden; margin: 10px 0;">
-  <img src="images/home/57932339.png" alt="图片描述" style="float: left; width: 400px; margin-right: 20px;">
+  <img src="images/home/57932339.png" alt="图片描述" style="float: left; width: 600px; margin-right: 20px;">
   
   <div>
     <p>视交叉上核（Suprachiasmatic Nucleus, SCN）是哺乳动物昼夜节律的中枢，现有研究主要聚焦于个体神经元的分子节律机制，系统层面如何编码时间仍然未解。马雷与合作者结合新型高速双视角双光子显微镜成像技术和机器学习技，提出了SCN群体决策与空间模块化特征表示的新概念，为生物钟的系统设计提供了全新视角（Cell Research (2024)）。</p>
