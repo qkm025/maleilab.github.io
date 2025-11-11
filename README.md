@@ -41,17 +41,17 @@
         .publication-item {
             margin-bottom: 15px;
         }
-        /* 调整图片大小以适应更宽的布局 */
+
         .float-container img {
             max-width: 100%;
             height: auto;
         }
-        /* 针对不同内容区域的图片调整 */
+
         .profile-image {
-            width: 220px; /* 稍微增加头像大小 */
+            width: 220px;
         }
         .research-image {
-            width: 680px; /* 增加研究图片大小 */
+            width: 680px;
         }
     </style>
 </head>
