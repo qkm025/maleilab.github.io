@@ -108,7 +108,8 @@
             <p>Fangxu Zhou, Zehua Li, Haifeng Li, Yao Lu, Linjia Cheng, Ying Zhang, Zichen Wang, Jing Nie, Heping Cheng, Bin Dong*, Lei Ma*, Li Yang*</p>
             <p>National Science Review</p>
         </div>
-        <div class="yibuFrameContent con_40_52  button_Style1  " style="overflow:visible;;"><a target="_blank" href="https://xhnewsapi.xinhuaxmt.com/share/news_pc?id=1059512391118848&amp;showType=3001&amp;utdId=null&amp;version=4.0.7&amp;twoShare=1&amp;uuid=9530-453f-ec50-b6b7-d8d2" class="w-button f-ellipsis" style="width: 289px; height: 36px; line-height: 36px;">
+        
+        <div id="smv_con_40_52" ctype="button" class="esmartMargin smartAbs " cpid="55412" cstyle="Style1" ccolor="Item1" areaid="" iscontainer="False" pvid="" tareaid="" re-direction="all" daxis="All" isdeletable="True" style="height: 38px; width: 291px; left: 57px; top: 1790px;z-index:16;"><div class="yibuFrameContent con_40_52  button_Style1  " style="overflow:visible;;"><a target="_blank" href="https://xhnewsapi.xinhuaxmt.com/share/news_pc?id=1059512391118848&amp;showType=3001&amp;utdId=null&amp;version=4.0.7&amp;twoShare=1&amp;uuid=9530-453f-ec50-b6b7-d8d2" class="w-button f-ellipsis" style="width: 289px; height: 36px; line-height: 36px;">
             <span class="w-button-position">
                 <em class="w-button-text f-ellipsis">
                     <i class="mw-iconfont w-button-icon w-icon-hide"></i>
@@ -120,7 +121,21 @@
                 $(function () {
                 });
             </script>
-        </div>
+        </div></div>
+
+        <div id="smv_con_48_51" ctype="button" class="esmartMargin smartAbs " cpid="55412" cstyle="Style1" ccolor="Item1" areaid="" iscontainer="False" pvid="" tareaid="" re-direction="all" daxis="All" isdeletable="True" style="height: 38px; width: 222px; left: 373px; top: 1790px;z-index:16;"><div class="yibuFrameContent con_48_51  button_Style1  " style="overflow:visible;;"><a target="_blank" href="https://h.xinhuaxmt.com/vh512/share/12443882?d=134fec8" class="w-button f-ellipsis" style="width: 220px; height: 36px; line-height: 36px;">
+            <span class="w-button-position">
+                <em class="w-button-text f-ellipsis">
+                    <i class="mw-iconfont w-button-icon w-icon-hide"></i>
+                    <span class="mw-txt">新华社-  2025年3月</span>
+                </em>
+            </span>
+        </a>
+            <script type="text/javascript">
+                $(function () {
+                });
+            </script>
+        </div></div>
         
         <div class="publication-item">
             <p><strong>2. An integrative data-driven model simulating C. elegans brain, body and environment interactions.</strong></p>
