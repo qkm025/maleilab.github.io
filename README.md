@@ -52,25 +52,41 @@
             border-radius: 5px;
         }
         .profile-image {
-            width: 240px;
+            width: 220px;
         }
-        .research-image {
-            width: 680px;
+        
+        .image-group {
+            float: left;
+            margin-right: 20px;
+        }
+        
+        .image-group img {
+            display: block;
+            margin-bottom: 10px;
+            border-radius: 5px;
+        }
+        
+        .image-large {
+            width: 390px;
+        }
+        
+        .image-small {
+            width: 240px;
         }
         
         .xinhua-link {
             display: inline-block;
             padding: 10px 20px;
             background-color: #f8f9fa;
-            border: 2px solid #47975d;
+            border: 2px solid #47975D;
             border-radius: 8px;
-            color: #47975d;
+            color: #47975D;
             font-weight: 500;
             transition: all 0.3s ease;
             margin: 5px;
         }
         .xinhua-link:hover {
-            background-color: #47975d;
+            background-color: #47975D;
             color: white;
             text-decoration: none;
             transform: translateY(-2px);
@@ -90,16 +106,24 @@
                 margin-right: 0;
                 margin-bottom: 15px;
             }
-            .profile-image, .research-image {
+            .image-group {
+                float: none;
+                margin-right: 0;
+                margin-bottom: 15px;
+            }
+            
+            .image-group img {
                 width: 100%;
                 max-width: 100%;
             }
+            
             .media-links {
                 flex-direction: column;
             }
         }
     </style>
 </head>
+
 <body>
     <div class="content-section">
         <div class="float-container">
@@ -128,8 +152,11 @@
         
         <h3>1. Nature Computational Science 期刊封面 - 国际首个秀丽线虫闭环仿真模型</h3>
         <div class="float-container">
-            <img src="images/home/57934934.jpg" alt="Nature Computational Science期刊封面" class="float-left research-image">
-            <img src="images/home/57934770.png" alt="Nature Computational Science期刊封面" class="float-left research-image">
+            <div class="image-group">
+                <img src="images/home/57934934.jpg" alt="Nature Computational Science期刊封面" class="image-large">
+                <img src="images/home/57934770.png" alt="Nature Computational Science期刊封面" class="image-small">
+            </div>
+            
             <div>
                 <p>秀丽线虫是生命科学研究的重要模式动物之一，常被用于研究神经系统的工作机制。当前脑科学研究侧重解析神经系统的局部工作机制，如何整合大脑不同层级的细节，进而构建完整的生物体仿真一直是领域内的重大挑战。</p>
                 <p>马雷团队首次实现了线虫神经网络模型与身体环境模型的闭环交互仿真，完整模拟了秀丽线虫的大脑、身体与环境的动态相互作用（Nature Computational Science 2024，12月封面文章，编辑推荐，期刊同期发表Research Briefing 报道）。</p>
@@ -138,9 +165,9 @@
 
         <h3>2. Cell Research 期刊封面 - 脑解码：SCN神经元集群时间编码模型</h3>
         <div class="float-container">
-            <img src="images/home/57932339.png" alt="Cell Research期刊封面" class="float-left research-image">
+            <img src="images/home/57932339.png" alt="Cell Research期刊封面" class="image-large">
             <div>
-                <p>视交叉上核（Suprachiasmatic Nucleus, SCN）是哺乳动物昼夜节律的中枢，现有研究主要聚焦于个体神经元的分子节律机制，系统层面如何编码时间仍然未解。马雷与合作者结合新型高速双视角双光子显微镜成像技术和机器学习技，提出了SCN群体决策与空间模块化特征表示的新概念，为生物钟的系统设计提供了全新视角（Cell Research (2024)）。</p>
+                <p>视交叉上核（Suprachiasmatic Nucleus, SCN）是哺乳动物昼夜节律的中枢，现有研究主要聚焦于个体神经元的分子节律机制，系统层面如何编码时间仍然未解。马雷与合作者结合新型高速双视角双光子显微镜成像技术和机器学习技术，提出了SCN群体决策与空间模块化特征表示的新概念，为生物钟的系统设计提供了全新视角（Cell Research (2024)）。</p>
             </div>
         </div>
     </div>
