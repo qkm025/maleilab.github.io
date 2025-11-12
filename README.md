@@ -52,7 +52,7 @@
             border-radius: 5px;
         }
         .profile-image {
-            width: 220px;
+            width: 240px;
         }
         .research-image {
             width: 680px;
@@ -143,7 +143,7 @@
         <div class="publication-item">
             <p><strong>1. An initiative on digital nephrology: the Kidney Imageomics Project.</strong></p>
             <p>Fangxu Zhou, Zehua Li, Haifeng Li, Yao Lu, Linjia Cheng, Ying Zhang, Zichen Wang, Jing Nie, Heping Cheng, Bin Dong*, Lei Ma*, Li Yang*</p>
-            <p>National Science Review</p>
+            <p><em>National Science Review</em></p>
         </div>
         
         <!-- 新华社链接 - 圆角矩形样式 -->
@@ -155,7 +155,7 @@
         <div class="publication-item">
             <p><strong>2. An integrative data-driven model simulating C. elegans brain, body and environment interactions.</strong></p>
             <p>Mengdi Zhao, Ning Wang, Xinrui Jiang, Xiaoyang Ma, Haixin Ma, Gan He, Kai Du, Lei Ma* & Tiejun Huang.</p>
-            <p>Nature Computational Science</p>
+            <p><em>Nature Computational Science</em></p>
         </div>
 <div id="smv_con_42_36" ctype="button" class="esmartMargin smartAbs " cpid="55412" cstyle="Style1" ccolor="Item1" areaid="" iscontainer="False" pvid="" tareaid="" re-direction="all" daxis="All" isdeletable="True" style="height: 38px; width: 282px; left: 55px; top: 1928px;z-index:16;"><div class="yibuFrameContent con_42_36  button_Style1  " style="overflow:visible;;"><a target="_blank" href="https://h.xinhuaxmt.com/vh512/share/12341233?d=134db4c" class="w-button f-ellipsis" style="width: 280px; height: 36px; line-height: 36px;">
     <span class="w-button-position">
@@ -225,7 +225,7 @@
         <div class="publication-item">
             <p><strong>3. System-level time computation and representation in the suprachiasmatic nucleus revealed by large-scale calcium imaging and machine learning.</strong></p>
             <p>Zichen Wang, Jing Yu, Muyue Zhai, Zehua Wang, Kaiwen Sheng, Yu Zhu, Tianyu Wang, Mianzhi Liu, Lu Wang, Miao Yan, Jue Zhang, Ying Xu, Xianhua Wang, Lei Ma*, Wei Hu* & Heping Cheng*.</p>
-            <p>Cell Research</p>
+            <p><em>Cell Research</em></p>
         </div>
 <div id="smv_con_47_29" ctype="button" class="esmartMargin smartAbs " cpid="55412" cstyle="Style1" ccolor="Item1" areaid="" iscontainer="False" pvid="" tareaid="" re-direction="all" daxis="All" isdeletable="True" style="height: 38px; width: 135px; left: 59px; top: 2152px;z-index:16;"><div class="yibuFrameContent con_47_29  button_Style1  " style="overflow:visible;;"><a target="_blank" href="https://h.xinhuaxmt.com/vh512/share/10845254" class="w-button f-ellipsis" style="width: 133px; height: 36px; line-height: 36px;">
     <span class="w-button-position">
@@ -256,13 +256,13 @@
         <div class="publication-item">
             <p><strong>4. A GPU-based computational framework that bridges Neuron simulation and Artificial Intelligence</strong></p>
             <p>Yichen Zhang#, Gan He#, Lei Ma#, Xiaofei Liu, JJ Johannes Hjorth, Alexander Kozlov, Yutao He, Shenjian Zhang, Jeanette Hellgren Kotaleski, Yonghong Tian, Sten Grillner, Kai Du, Tiejun Huang.</p>
-            <p>Nature Communications</p>
+            <p><em>Nature Communications</em></p>
         </div>
         
         <div class="publication-item">
             <p><strong>5. Embedded prompt tuning: Towards enhanced calibration of pretrained models for medical images</strong></p>
             <p>Wenqiang Zu#, Shenghao Xie#, Qing Zhao#, Guoqi Li, Lei Ma*</p>
-            <p>Medical Image Analysis</p>
+            <p><em>Medical Image Analysis</em></p>
         </div>
     </div>
 
