@@ -157,13 +157,102 @@
             <p>Mengdi Zhao, Ning Wang, Xinrui Jiang, Xiaoyang Ma, Haixin Ma, Gan He, Kai Du, Lei Ma* & Tiejun Huang.</p>
             <p>Nature Computational Science</p>
         </div>
-        
+<div id="smv_con_42_36" ctype="button" class="esmartMargin smartAbs " cpid="55412" cstyle="Style1" ccolor="Item1" areaid="" iscontainer="False" pvid="" tareaid="" re-direction="all" daxis="All" isdeletable="True" style="height: 38px; width: 282px; left: 55px; top: 1928px;z-index:16;"><div class="yibuFrameContent con_42_36  button_Style1  " style="overflow:visible;;"><a target="_blank" href="https://h.xinhuaxmt.com/vh512/share/12341233?d=134db4c" class="w-button f-ellipsis" style="width: 280px; height: 36px; line-height: 36px;">
+    <span class="w-button-position">
+        <em class="w-button-text f-ellipsis">
+            <i class="mw-iconfont w-button-icon w-icon-hide"></i>
+            <span class="mw-txt">新华社 -新华视点 - 2024年12月</span>
+        </em>
+    </span>
+</a>
+    <script type="text/javascript">
+        $(function () {
+        });
+    </script>
+</div></div>
+<div id="smv_con_50_59" ctype="button" class="esmartMargin smartAbs " cpid="55412" cstyle="Style1" ccolor="Item1" areaid="" iscontainer="False" pvid="" tareaid="" re-direction="all" daxis="All" isdeletable="True" style="height: 38px; width: 135px; left: 389px; top: 1928px;z-index:16;"><div class="yibuFrameContent con_50_59  button_Style1  " style="overflow:visible;;"><a target="_blank" href="https://tv.cctv.com/2023/01/21/VIDEEG17Lt1mLKlDsrkqbGWG230121.shtml?spm=C55924871139.PT8hUEEDkoTi.0.0" class="w-button f-ellipsis" style="width: 133px; height: 36px; line-height: 36px;">
+    <span class="w-button-position">
+        <em class="w-button-text f-ellipsis">
+            <i class="mw-iconfont w-button-icon w-icon-hide"></i>
+            <span class="mw-txt">CCTV 9</span>
+        </em>
+    </span>
+</a>
+    <script type="text/javascript">
+        $(function () {
+        });
+    </script>
+</div></div>
+<div id="smv_con_44_5" ctype="button" class="esmartMargin smartAbs " cpid="55412" cstyle="Style1" ccolor="Item1" areaid="" iscontainer="False" pvid="" tareaid="" re-direction="all" daxis="All" isdeletable="True" style="height: 38px; width: 135px; left: 578px; top: 1928px;z-index:16;"><div class="yibuFrameContent con_44_5  button_Style1  " style="overflow:visible;;"><a target="_blank" href="https://h.xinhuaxmt.com/vh512/share/10845612" class="w-button f-ellipsis" style="width: 133px; height: 36px; line-height: 36px;">
+    <span class="w-button-position">
+        <em class="w-button-text f-ellipsis">
+            <i class="mw-iconfont w-button-icon w-icon-hide"></i>
+            <span class="mw-txt">新华社</span>
+        </em>
+    </span>
+</a>
+    <script type="text/javascript">
+        $(function () {
+        });
+    </script>
+</div></div>
+<div id="smv_con_45_27" ctype="button" class="esmartMargin smartAbs " cpid="55412" cstyle="Style1" ccolor="Item1" areaid="" iscontainer="False" pvid="" tareaid="" re-direction="all" daxis="All" isdeletable="True" style="height: 38px; width: 135px; left: 751px; top: 1928px;z-index:16;"><div class="yibuFrameContent con_45_27  button_Style1  " style="overflow:visible;;"><a target="_blank" href="https://h.xinhuaxmt.com/vh512/share/10845254" class="w-button f-ellipsis" style="width: 133px; height: 36px; line-height: 36px;">
+    <span class="w-button-position">
+        <em class="w-button-text f-ellipsis">
+            <i class="mw-iconfont w-button-icon w-icon-hide"></i>
+            <span class="mw-txt">新华社</span>
+        </em>
+    </span>
+</a>
+    <script type="text/javascript">
+        $(function () {
+        });
+    </script>
+</div></div>
+<div id="smv_con_49_3" ctype="button" class="esmartMargin smartAbs " cpid="55412" cstyle="Style1" ccolor="Item1" areaid="" iscontainer="False" pvid="" tareaid="" re-direction="all" daxis="All" isdeletable="True" style="height: 38px; width: 640px; left: 55px; top: 1974px;z-index:16;"><div class="yibuFrameContent con_49_3  button_Style1  " style="overflow:visible;;"><a target="_blank" href="https://tv.cctv.com/2025/03/01/VIDEBHUUetmfDfV1fG5N1ZXJ250301.shtml?spm=C53156045404.PKXC0xLPAnP9.0.0" class="w-button f-ellipsis" style="width: 638px; height: 36px; line-height: 36px;">
+    <span class="w-button-position">
+        <em class="w-button-text f-ellipsis">
+            <i class="mw-iconfont w-button-icon w-icon-hide"></i>
+            <span class="mw-txt">CCTV - 新闻直播间 - 2025年3月 - 大模型“智”在何方，数字线虫“天宝” 开启生物智能新范式</span>
+        </em>
+    </span>
+</a>
+    <script type="text/javascript">
+        $(function () {
+        });
+    </script>
+</div></div>
         <div class="publication-item">
             <p><strong>3. System-level time computation and representation in the suprachiasmatic nucleus revealed by large-scale calcium imaging and machine learning.</strong></p>
             <p>Zichen Wang, Jing Yu, Muyue Zhai, Zehua Wang, Kaiwen Sheng, Yu Zhu, Tianyu Wang, Mianzhi Liu, Lu Wang, Miao Yan, Jue Zhang, Ying Xu, Xianhua Wang, Lei Ma*, Wei Hu* & Heping Cheng*.</p>
             <p>Cell Research</p>
         </div>
-        
+<div id="smv_con_47_29" ctype="button" class="esmartMargin smartAbs " cpid="55412" cstyle="Style1" ccolor="Item1" areaid="" iscontainer="False" pvid="" tareaid="" re-direction="all" daxis="All" isdeletable="True" style="height: 38px; width: 135px; left: 59px; top: 2152px;z-index:16;"><div class="yibuFrameContent con_47_29  button_Style1  " style="overflow:visible;;"><a target="_blank" href="https://h.xinhuaxmt.com/vh512/share/10845254" class="w-button f-ellipsis" style="width: 133px; height: 36px; line-height: 36px;">
+    <span class="w-button-position">
+        <em class="w-button-text f-ellipsis">
+            <i class="mw-iconfont w-button-icon w-icon-hide"></i>
+            <span class="mw-txt">新华社</span>
+        </em>
+    </span>
+</a>
+    <script type="text/javascript">
+        $(function () {
+        });
+    </script>
+</div></div>
+<div id="smv_con_46_17" ctype="button" class="esmartMargin smartAbs " cpid="55412" cstyle="Style1" ccolor="Item1" areaid="" iscontainer="False" pvid="" tareaid="" re-direction="all" daxis="All" isdeletable="True" style="height: 38px; width: 135px; left: 240px; top: 2152px;z-index:16;"><div class="yibuFrameContent con_46_17  button_Style1  " style="overflow:visible;;"><a target="_blank" href="http://www.bj.xinhuanet.com/20240418/e84ab548d7dd4bacb928489e4c04d6a2/c.html" class="w-button f-ellipsis" style="width: 133px; height: 36px; line-height: 36px;">
+    <span class="w-button-position">
+        <em class="w-button-text f-ellipsis">
+            <i class="mw-iconfont w-button-icon w-icon-hide"></i>
+            <span class="mw-txt">新华社</span>
+        </em>
+    </span>
+</a>
+    <script type="text/javascript">
+        $(function () {
+        });
+    </script>
+</div></div>
         <div class="publication-item">
             <p><strong>4. A GPU-based computational framework that bridges Neuron simulation and Artificial Intelligence</strong></p>
             <p>Yichen Zhang#, Gan He#, Lei Ma#, Xiaofei Liu, JJ Johannes Hjorth, Alexander Kozlov, Yutao He, Shenjian Zhang, Jeanette Hellgren Kotaleski, Yonghong Tian, Sten Grillner, Kai Du, Tiejun Huang.</p>
