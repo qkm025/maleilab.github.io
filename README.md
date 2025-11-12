@@ -31,8 +31,12 @@
         h2 {
             color: #34495e;
         }
+        h3 {
+            color: #2c3e50;
+            margin-top: 25px;
+        }
         a {
-            color: #2c3e50; /* 统一为标题颜色 */
+            color: #2c3e50;
             text-decoration: none;
         }
         a:hover {
@@ -42,13 +46,11 @@
         .publication-item {
             margin-bottom: 15px;
         }
-
         .float-container img {
             max-width: 100%;
             height: auto;
+            border-radius: 5px;
         }
-
-        /* 图片宽度独立调节 */
         .profile-image {
             width: 220px;
         }
@@ -56,36 +58,24 @@
             width: 680px;
         }
         
-        /* 圆角矩形链接样式 */
+        /* 圆角矩形链接样式 - 边框颜色设为#47975D */
         .xinhua-link {
             display: inline-block;
             padding: 10px 20px;
             background-color: #f8f9fa;
-            border: 1px solid #e9ecef;
+            border: 2px solid #47975D; /* 使用指定的边框颜色 */
             border-radius: 8px;
-            color: #2c3e50; /* 与标题颜色一致 */
+            color: #2c3e50;
             font-weight: 500;
             transition: all 0.3s ease;
             margin: 5px;
         }
         .xinhua-link:hover {
-            background-color: #e9ecef;
+            background-color: #47975D;
+            color: white;
             text-decoration: none;
             transform: translateY(-2px);
             box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-        }
-        
-        /* 图片调节控件 */
-        .image-control {
-            margin-top: 10px;
-            display: flex;
-            align-items: center;
-            gap: 10px;
-            font-size: 14px;
-            color: #666;
-        }
-        .image-slider {
-            width: 150px;
         }
         
         /* 响应式设计 */
@@ -105,13 +95,7 @@
 <body>
     <div class="content-section">
         <div class="float-container">
-            <div>
-                <img src="images/home/47915613.jpg" alt="马雷" class="float-left profile-image" id="profile-img">
-                <div class="image-control">
-                    <span>调节大小:</span>
-                    <input type="range" min="150" max="300" value="220" class="image-slider" id="profile-slider">
-                </div>
-            </div>
+            <img src="images/home/47915613.jpg" alt="马雷" class="float-left profile-image">
             <div>
                 <h1>马雷</h1>
                 <p><strong>北京大学国家生物医学成像科学中心 研究员（PI）、博士生导师</strong></p>
@@ -136,13 +120,7 @@
         
         <h3>1. Nature Computational Science 期刊封面 - 国际首个秀丽线虫闭环仿真模型</h3>
         <div class="float-container">
-            <div>
-                <img src="images/home/57934934.jpg" alt="Nature Computational Science期刊封面" class="float-left research-image" id="research-img-1">
-                <div class="image-control">
-                    <span>调节大小:</span>
-                    <input type="range" min="400" max="800" value="680" class="image-slider" id="research-slider-1">
-                </div>
-            </div>
+            <img src="images/home/57934934.jpg" alt="Nature Computational Science期刊封面" class="float-left research-image">
             <div>
                 <p>秀丽线虫是生命科学研究的重要模式动物之一，常被用于研究神经系统的工作机制。当前脑科学研究侧重解析神经系统的局部工作机制，如何整合大脑不同层级的细节，进而构建完整的生物体仿真一直是领域内的重大挑战。</p>
                 <p>马雷团队首次实现了线虫神经网络模型与身体环境模型的闭环交互仿真，完整模拟了秀丽线虫的大脑、身体与环境的动态相互作用（Nature Computational Science 2024，12月封面文章，编辑推荐，期刊同期发表Research Briefing 报道）。</p>
@@ -151,13 +129,7 @@
 
         <h3>2. Cell Research 期刊封面 - 脑解码：SCN神经元集群时间编码模型</h3>
         <div class="float-container">
-            <div>
-                <img src="images/home/57932339.png" alt="Cell Research期刊封面" class="float-left research-image" id="research-img-2">
-                <div class="image-control">
-                    <span>调节大小:</span>
-                    <input type="range" min="400" max="800" value="680" class="image-slider" id="research-slider-2">
-                </div>
-            </div>
+            <img src="images/home/57932339.png" alt="Cell Research期刊封面" class="float-left research-image">
             <div>
                 <p>视交叉上核（Suprachiasmatic Nucleus, SCN）是哺乳动物昼夜节律的中枢，现有研究主要聚焦于个体神经元的分子节律机制，系统层面如何编码时间仍然未解。马雷与合作者结合新型高速双视角双光子显微镜成像技术和机器学习技，提出了SCN群体决策与空间模块化特征表示的新概念，为生物钟的系统设计提供了全新视角（Cell Research (2024)）。</p>
             </div>
@@ -174,6 +146,7 @@
             <p>National Science Review</p>
         </div>
         
+        <!-- 新华社链接 - 圆角矩形样式 -->
         <div style="margin: 15px 0;">
             <a href="https://xhnewsapi.xinhuaxmt.com/share/news_pc?id=1059512391118848&showType=3001&utdId=null&version=4.0.7&twoShare=1&uuid=9530-453f-ec50-b6b7-d8d2" target="_blank" class="xinhua-link">Xinhua News - 2025年3月</a>
             <a href="https://h.xinhuaxmt.com/vh512/share/12443882?d=134fec8" target="_blank" class="xinhua-link">新华社 - 2025年3月</a>
@@ -221,37 +194,5 @@
         <p>邮箱：<a href="mailto:lei.ma@pku.edu.cn">lei.ma@pku.edu.cn</a></p>
         <p>地址：北京市海淀区颐和园路5号北京大学王克桢楼209</p>
     </div>
-
-    <script>
-        // 图片大小调节功能
-        document.addEventListener('DOMContentLoaded', function() {
-            // 头像图片调节
-            const profileSlider = document.getElementById('profile-slider');
-            const profileImg = document.getElementById('profile-img');
-            
-            if (profileSlider && profileImg) {
-                profileSlider.addEventListener('input', function() {
-                    profileImg.style.width = this.value + 'px';
-                });
-            
-            const researchSlider1 = document.getElementById('research-slider-1');
-            const researchImg1 = document.getElementById('research-img-1');
-            
-            if (researchSlider1 && researchImg1) {
-                researchSlider1.addEventListener('input', function() {
-                    researchImg1.style.width = this.value + 'px';
-                });
-            }
-            
-            const researchSlider2 = document.getElementById('research-slider-2');
-            const researchImg2 = document.getElementById('research-img-2');
-            
-            if (researchSlider2 && researchImg2) {
-                researchSlider2.addEventListener('input', function() {
-                    researchImg2.style.width = this.value + 'px';
-                });
-            }
-        });
-    </script>
 </body>
 </html>
