@@ -12,7 +12,7 @@ The Computational Odyssey in Biological Exploration：Computational methods play
 
 # Biomedical data realistic rendering
  
-
+<img src="images/research/47919104.png" alt="Biomedical data realistic rendering" class="image-large">
 High-quality visualization can assist researchers in gaining deeper intuition and insights. We are dedicated to developing and offering world-leading cinematic computer graphics techniques to our collaborators for their research endeavors.
 
 
@@ -20,7 +20,7 @@ High-quality visualization can assist researchers in gaining deeper intuition an
 
 # Biomedical image foundation model
 
-
+<img src="images/research/47919102.png" alt="Biomedical image foundation model" class="image-large">
 In recent years, foundation models have revolutionized numerous research fields. This cutting-edge technology offers a promising approach to process, integrate, and comprehend vast amounts of biomedical images, thereby fostering the advancement of biomedical research.
 
 
@@ -28,6 +28,5 @@ In recent years, foundation models have revolutionized numerous research fields.
 
 # Multimodal trans-scale biomedical image integration
 
-
-
+<img src="images/research/47919100.jpg" alt="Multimodal trans-scale biomedical image integration" class="image-large">
 Accurately describing the temporal and spatial dynamics of life activities is crucial in biomedical research. This necessitates the integration of multimodal information and overcoming multi-scale barriers.
