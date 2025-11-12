@@ -108,6 +108,19 @@
             <p>Fangxu Zhou, Zehua Li, Haifeng Li, Yao Lu, Linjia Cheng, Ying Zhang, Zichen Wang, Jing Nie, Heping Cheng, Bin Dong*, Lei Ma*, Li Yang*</p>
             <p>National Science Review</p>
         </div>
+        <div class="yibuFrameContent con_40_52  button_Style1  " style="overflow:visible;;"><a target="_blank" href="https://xhnewsapi.xinhuaxmt.com/share/news_pc?id=1059512391118848&amp;showType=3001&amp;utdId=null&amp;version=4.0.7&amp;twoShare=1&amp;uuid=9530-453f-ec50-b6b7-d8d2" class="w-button f-ellipsis" style="width: 289px; height: 36px; line-height: 36px;">
+            <span class="w-button-position">
+                <em class="w-button-text f-ellipsis">
+                    <i class="mw-iconfont w-button-icon w-icon-hide"></i>
+                    <span class="mw-txt">Xinhua News - 2025年3月</span>
+                </em>
+            </span>
+        </a>
+            <script type="text/javascript">
+                $(function () {
+                });
+            </script>
+        </div>
         
         <div class="publication-item">
             <p><strong>2. An integrative data-driven model simulating C. elegans brain, body and environment interactions.</strong></p>
