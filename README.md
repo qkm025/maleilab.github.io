@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
@@ -59,27 +58,25 @@
             width: 680px;
         }
         
-        /* 圆角矩形链接样式 - 边框颜色设为#47975D */
         .xinhua-link {
             display: inline-block;
             padding: 10px 20px;
             background-color: #f8f9fa;
-            border: 2px solid #47975D;
+            border: 2px solid #47975d;
             border-radius: 8px;
-            color: #47975D; /* 文字颜色改为绿色 */
+            color: #47975d;
             font-weight: 500;
             transition: all 0.3s ease;
             margin: 5px;
         }
         .xinhua-link:hover {
-            background-color: #47975D;
+            background-color: #47975d;
             color: white;
             text-decoration: none;
             transform: translateY(-2px);
             box-shadow: 0 4px 8px rgba(0,0,0,0.1);
         }
         
-        /* 媒体链接容器 */
         .media-links {
             margin: 15px 0;
             display: flex;
@@ -87,7 +84,6 @@
             gap: 10px;
         }
         
-        /* 响应式设计 */
         @media (max-width: 768px) {
             .float-left {
                 float: none;
