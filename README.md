@@ -10,7 +10,7 @@
             margin: 0 auto;
             padding: 20px;
             color: #333;
-            max-width: 1400px;
+            max-width: 1300px;
         }
         .content-section {
             margin-bottom: 30px;
@@ -61,11 +61,11 @@
             <img src="images/home/47915613.jpg" alt="马雷" class="float-left profile-image">
             <div>
                 <h1>马雷</h1>
-                <p>北京大学国家生物医学成像科学中心 研究员（PI）、博士生导师</p>
+                <p><strong>北京大学国家生物医学成像科学中心 研究员（PI）、博士生导师</p>
                 <p>北京市杰出青年</p>
                 <p>2025-2026 博古睿学者</p>
                 <p>北京智源人工智能研究院 智源学者</p>
-                <p>国家重大科技基础设施- "多模态跨尺度生物医学成像设施" 装置四负责人</p>
+                <p>国家重大科技基础设施- "多模态跨尺度生物医学成像设施" 装置四负责人</strong></p>
                 <p>邮箱：<a href="mailto:lei.ma@pku.edu.cn">lei.ma@pku.edu.cn</a></p>
                 <p>地址：北京市海淀区颐和园路5号北京大学王克桢楼209</p>
             </div>
@@ -75,7 +75,7 @@
     <div class="content-section">
         <h1>Short Bio</h1>
         <p>马雷博士的研究方向为人工智能与数字生命。共计发表学术论文近70篇。近三年以第一或通讯在Nature Computational Science(2024、封面文章)、Cell Research(2024、封面文章）、National Science Review（2025）、MIA（2024）、Nature Communications(2023)、ACM/IEEE汇刊等国际期刊及CVPR、NIPS、ECCV等人工智能会议发表32篇论文，代表工作包括数据驱动秀丽线虫"天宝"、精细神经元动力学快速求解算法、SCN神经元集群时间编码模型、神经形态相机等。承担"科技创新2030"重大项目课题（2022）、北京市科技计划（2023）、北京市杰出青年科学基金（2024）、北京市非共识项目（第一批、2025）等多个重要项目。</p>
-        <p>课题组尚有26年硕士起点博士名额，有意者联系<a href="mailto:lei.ma@pku.edu.cn">lei.ma@pku.edu.cn</a></p>
+        <p><strong>课题组尚有26年硕士起点博士名额，有意者联系<a href="mailto:lei.ma@pku.edu.cn">lei.ma@pku.edu.cn</a></strong></p>
     </div>
 
     <div class="content-section">
