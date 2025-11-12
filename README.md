@@ -121,6 +121,7 @@
         <h3>1. Nature Computational Science 期刊封面 - 国际首个秀丽线虫闭环仿真模型</h3>
         <div class="float-container">
             <img src="images/home/57934934.jpg" alt="Nature Computational Science期刊封面" class="float-left research-image">
+            <img src="images/home/57934770.png" alt="Nature Computational Science期刊封面" class="float-left research-image">
             <div>
                 <p>秀丽线虫是生命科学研究的重要模式动物之一，常被用于研究神经系统的工作机制。当前脑科学研究侧重解析神经系统的局部工作机制，如何整合大脑不同层级的细节，进而构建完整的生物体仿真一直是领域内的重大挑战。</p>
                 <p>马雷团队首次实现了线虫神经网络模型与身体环境模型的闭环交互仿真，完整模拟了秀丽线虫的大脑、身体与环境的动态相互作用（Nature Computational Science 2024，12月封面文章，编辑推荐，期刊同期发表Research Briefing 报道）。</p>
