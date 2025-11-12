@@ -61,11 +61,11 @@
             <img src="images/home/47915613.jpg" alt="马雷" class="float-left profile-image">
             <div>
                 <h1>马雷</h1>
-                <p><strong>北京大学国家生物医学成像科学中心 研究员（PI）、博士生导师</p>
-                <p>北京市杰出青年</p>
-                <p>2025-2026 博古睿学者</p>
-                <p>北京智源人工智能研究院 智源学者</p>
-                <p>国家重大科技基础设施- "多模态跨尺度生物医学成像设施" 装置四负责人</strong></p>
+                <p><strong>北京大学国家生物医学成像科学中心 研究员（PI）、博士生导师</strong></p>
+                <p><strong>北京市杰出青年</strong></p>
+                <p><strong>2025-2026 博古睿学者</strong></p>
+                <p><strong>北京智源人工智能研究院 智源学者</strong></p>
+                <p><strong>国家重大科技基础设施- "多模态跨尺度生物医学成像设施" 装置四负责人</strong></p>
                 <p>邮箱：<a href="mailto:lei.ma@pku.edu.cn">lei.ma@pku.edu.cn</a></p>
                 <p>地址：北京市海淀区颐和园路5号北京大学王克桢楼209</p>
             </div>
