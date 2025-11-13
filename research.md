@@ -33,7 +33,7 @@
         }
         
         .research-image {
-            flex: 0 0 54%;
+            flex: 0 0 50%;
             margin-right: 30px;
         }
         
