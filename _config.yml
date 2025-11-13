@@ -2,9 +2,7 @@ theme: jekyll-theme-cayman
 title: Malei Lab - Home
 
 layout: page
-title: “Research”
 permalink: /research
 
 layout: page
-title: “Full List”
 permalink: /fulllist
