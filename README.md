@@ -12,22 +12,25 @@
             color: #333;
             max-width: 1300px;
         }
-        /* 导航栏样式 - 与xinhua-link一致 */
+
         .navbar {
-            background-color: #f8f9fa;
+            background-color: white;
             padding: 15px 20px;
             border-radius: 8px;
             margin-bottom: 30px;
             box-shadow: 0 2px 5px rgba(0,0,0,0.1);
             display: flex;
-            justify-content: space-between;
+            justify-content: center;
             align-items: center;
+            flex-direction: column;
         }
         .navbar .logo {
-            font-size: 1.5em;
+            font-size: 1.8em;
             font-weight: bold;
-            color: #2c3e50;
+            color: #47975D;
             text-decoration: none;
+            font-family: 'Arial Black', 'Arial Bold', sans-serif;
+            margin-bottom: 15px;
         }
         .navbar .nav-links {
             list-style: none;
@@ -39,7 +42,7 @@
         .navbar .nav-links a {
             display: inline-block;
             padding: 10px 20px;
-            background-color: #f8f9fa;
+            background-color: white;
             border: 2px solid #47975D;
             border-radius: 8px;
             color: #47975D;
@@ -56,7 +59,7 @@
             transform: translateY(-2px);
             box-shadow: 0 4px 8px rgba(0,0,0,0.1);
         }
-        /* 原有样式保持不变 */
+
         .content-section {
             margin-bottom: 30px;
         }
@@ -203,14 +206,13 @@
 </head>
 
 <body>
-    <!-- 导航栏 - 包含标题和导航链接 -->
     <nav class="navbar">
         <a href="/" class="logo">Insight Lab</a>
         <ul class="nav-links">
-            <li><a href="/">Home</a></li>
-            <li><a href="members.html">Members</a></li>
-            <li><a href="research.html">Research</a></li>
-            <li><a href="fulllist.html">Publications</a></li>
+            <li><a href="README">Home</a></li>
+            <li><a href="members">Members</a></li>
+            <li><a href="research">Research</a></li>
+            <li><a href="fulllist">Publications</a></li>
         </ul>
     </nav>
 
