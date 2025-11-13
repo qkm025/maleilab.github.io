@@ -92,6 +92,7 @@
             font-weight: 500;
             transition: all 0.3s ease;
             margin: 5px;
+            line-height: 30px;
         }
         .xinhua-link:hover {
             background-color: #47975D;
