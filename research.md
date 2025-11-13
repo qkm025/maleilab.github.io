@@ -13,7 +13,7 @@
         }
         
         .container {
-            max-width: 1200px;
+            max-width: 1280px;
             margin: 0 auto;
         }
         
@@ -33,7 +33,7 @@
         }
         
         .research-image {
-            flex: 0 0 40%;
+            flex: 0 0 54%;
             margin-right: 30px;
         }
         
@@ -92,7 +92,7 @@
                     <img src="images/research/47919104.png" alt="Biomedical data realistic rendering" class="image-large">
                 </div>
                 <div class="research-content">
-                    <h2>Biomedical data realistic rendering</h2>
+                    <h1>Biomedical data realistic rendering</h1>
                     <p>High-quality visualization can assist researchers in gaining deeper intuition and insights. We are dedicated to developing and offering world-leading cinematic computer graphics techniques to our collaborators for their research endeavors.</p>
                 </div>
             </div>
@@ -102,7 +102,7 @@
                     <img src="images/research/47919102.png" alt="Biomedical image foundation model" class="image-large">
                 </div>
                 <div class="research-content">
-                    <h2>Biomedical image foundation model</h2>
+                    <h1>Biomedical image foundation model</h1>
                     <p>In recent years, foundation models have revolutionized numerous research fields. This cutting-edge technology offers a promising approach to process, integrate, and comprehend vast amounts of biomedical images, thereby fostering the advancement of biomedical research.</p>
                 </div>
             </div>
@@ -112,7 +112,7 @@
                     <img src="images/research/47919100.jpg" alt="Multimodal trans-scale biomedical image integration" class="image-large">
                 </div>
                 <div class="research-content">
-                    <h2>Multimodal trans-scale biomedical image integration</h2>
+                    <h1>Multimodal trans-scale biomedical image integration</h1>
                     <p>Accurately describing the temporal and spatial dynamics of life activities is crucial in biomedical research. This necessitates the integration of multimodal information and overcoming multi-scale barriers.</p>
                 </div>
             </div>
