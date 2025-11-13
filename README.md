@@ -12,25 +12,26 @@
             color: #333;
             max-width: 1300px;
         }
-
+        /* 导航栏样式 - 修改为左侧标题、白色背景、无阴影 */
         .navbar {
-            background-color: white;
+            background-color: white; /* 白色背景 */
             padding: 15px 20px;
             border-radius: 8px;
             margin-bottom: 30px;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            /* 去掉阴影效果 */
             display: flex;
-            justify-content: center;
+            justify-content: space-between; /* 标题在左，导航在右 */
             align-items: center;
-            flex-direction: column;
         }
         .navbar .logo {
             font-size: 1.8em;
             font-weight: bold;
-            color: #47975D;
+            color: #47975D; /* 绿色 */
             text-decoration: none;
-            font-family: 'Arial Black', 'Arial Bold', sans-serif;
-            margin-bottom: 15px;
+            /* HeadLineA字体样式 */
+            font-family: 'Arial Black', 'Arial Bold', Gadget, sans-serif;
+            letter-spacing: 0.5px;
+            text-shadow: 1px 1px 1px rgba(0,0,0,0.1);
         }
         .navbar .nav-links {
             list-style: none;
@@ -57,9 +58,8 @@
             color: white;
             text-decoration: none;
             transform: translateY(-2px);
-            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
         }
-
+        /* 其余样式保持不变 */
         .content-section {
             margin-bottom: 30px;
         }
@@ -147,7 +147,6 @@
             color: white;
             text-decoration: none;
             transform: translateY(-2px);
-            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
         }
         
         .media-links {
@@ -206,13 +205,14 @@
 </head>
 
 <body>
+    <!-- 导航栏 - 包含标题和导航链接 -->
     <nav class="navbar">
         <a href="/" class="logo">Insight Lab</a>
         <ul class="nav-links">
-            <li><a href="README">Home</a></li>
-            <li><a href="members">Members</a></li>
-            <li><a href="research">Research</a></li>
-            <li><a href="fulllist">Publications</a></li>
+            <li><a href="/">Home</a></li>
+            <li><a href="members.html">Members</a></li>
+            <li><a href="research.html">Research</a></li>
+            <li><a href="fulllist.html">Publications</a></li>
         </ul>
     </nav>
 
