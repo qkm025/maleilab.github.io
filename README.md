@@ -12,34 +12,49 @@
             color: #333;
             max-width: 1300px;
         }
-        /* 导航栏样式 */
+        /* 导航栏样式 - 与xinhua-link一致 */
         .navbar {
             background-color: #f8f9fa;
             padding: 15px 20px;
-            border-radius: 5px;
+            border-radius: 8px;
             margin-bottom: 30px;
             box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
         }
-        .navbar ul {
+        .navbar .logo {
+            font-size: 1.5em;
+            font-weight: bold;
+            color: #2c3e50;
+            text-decoration: none;
+        }
+        .navbar .nav-links {
             list-style: none;
             margin: 0;
             padding: 0;
             display: flex;
-            gap: 25px;
+            gap: 10px;
         }
-        .navbar a {
-            color: #2c3e50;
-            text-decoration: none;
+        .navbar .nav-links a {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #f8f9fa;
+            border: 2px solid #47975D;
+            border-radius: 8px;
+            color: #47975D;
             font-weight: 500;
-            font-size: 1.1em;
-            padding: 5px 10px;
-            border-radius: 3px;
+            text-decoration: none;
             transition: all 0.3s ease;
+            margin: 5px;
+            line-height: 30px;
         }
-        .navbar a:hover {
-            background-color: #3498db;
+        .navbar .nav-links a:hover {
+            background-color: #47975D;
             color: white;
             text-decoration: none;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
         }
         /* 原有样式保持不变 */
         .content-section {
@@ -82,7 +97,7 @@
             border-radius: 5px;
         }
         .profile-image {
-            width: 240px;
+            width: 220px;
         }
         
         .image-group {
@@ -141,13 +156,19 @@
         
         @media (max-width: 768px) {
             /* 响应式导航栏 */
-            .navbar ul {
+            .navbar {
                 flex-direction: column;
-                gap: 10px;
+                gap: 15px;
             }
-            .navbar a {
+            .navbar .nav-links {
+                flex-direction: column;
+                gap: 5px;
+                width: 100%;
+            }
+            .navbar .nav-links a {
                 display: block;
                 text-align: center;
+                margin: 5px 0;
             }
             /* 原有响应式样式保持不变 */
             .float-left {
@@ -182,13 +203,14 @@
 </head>
 
 <body>
-    <!-- 导航栏 -->
+    <!-- 导航栏 - 包含标题和导航链接 -->
     <nav class="navbar">
-        <ul>
-            <li><a href="README.html">Home</a></li>
+        <a href="/" class="logo">Insight Lab</a>
+        <ul class="nav-links">
+            <li><a href="/">Home</a></li>
             <li><a href="members.html">Members</a></li>
-            <li><a href="research(2).html">Research</a></li>
-            <li><a href="fulllist(1).html">Publications</a></li>
+            <li><a href="research.html">Research</a></li>
+            <li><a href="fulllist.html">Publications</a></li>
         </ul>
     </nav>
 
