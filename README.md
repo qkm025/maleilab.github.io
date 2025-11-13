@@ -77,7 +77,9 @@
         }
         
         .image-cell-research {
-            width: 680px;
+            width: 660px;
+            float: left;
+            margin-right: 20px;
         }
         
         .xinhua-link {
@@ -126,6 +128,9 @@
             
             .image-cell-research {
                 width: 100%;
+                float: none;
+                margin-right: 0;
+                margin-bottom: 15px;
             }
             
             .media-links {
