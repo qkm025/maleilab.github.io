@@ -77,7 +77,7 @@
         }
         
         .image-cell-research {
-            width: 660px;
+            width: 640px;
             float: left;
             margin-right: 20px;
         }
