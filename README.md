@@ -12,6 +12,36 @@
             color: #333;
             max-width: 1300px;
         }
+        /* 导航栏样式 */
+        .navbar {
+            background-color: #f8f9fa;
+            padding: 15px 20px;
+            border-radius: 5px;
+            margin-bottom: 30px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .navbar ul {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            gap: 25px;
+        }
+        .navbar a {
+            color: #2c3e50;
+            text-decoration: none;
+            font-weight: 500;
+            font-size: 1.1em;
+            padding: 5px 10px;
+            border-radius: 3px;
+            transition: all 0.3s ease;
+        }
+        .navbar a:hover {
+            background-color: #3498db;
+            color: white;
+            text-decoration: none;
+        }
+        /* 原有样式保持不变 */
         .content-section {
             margin-bottom: 30px;
         }
@@ -52,7 +82,7 @@
             border-radius: 5px;
         }
         .profile-image {
-            width: 220px;
+            width: 240px;
         }
         
         .image-group {
@@ -110,6 +140,16 @@
         }
         
         @media (max-width: 768px) {
+            /* 响应式导航栏 */
+            .navbar ul {
+                flex-direction: column;
+                gap: 10px;
+            }
+            .navbar a {
+                display: block;
+                text-align: center;
+            }
+            /* 原有响应式样式保持不变 */
             .float-left {
                 float: none;
                 margin-right: 0;
@@ -142,6 +182,16 @@
 </head>
 
 <body>
+    <!-- 导航栏 -->
+    <nav class="navbar">
+        <ul>
+            <li><a href="README.html">Home</a></li>
+            <li><a href="members.html">Members</a></li>
+            <li><a href="research(2).html">Research</a></li>
+            <li><a href="fulllist(1).html">Publications</a></li>
+        </ul>
+    </nav>
+
     <div class="content-section">
         <div class="float-container">
             <img src="images/home/47915613.jpg" alt="马雷" class="float-left profile-image">
