@@ -24,11 +24,11 @@
             align-items: center;
         }
         .navbar .logo {
-            font-size: 1.8em;
+            font-size: 2.4em;
             font-weight: bold;
             color: #47975d;
             text-decoration: none;
-            font-family: 'HeadLineA', Gadget, sans-serif;
+            font-family: "HeadLineA", "SimHei", "Microsoft YaHei", "Heiti TC", "Arial Black", sans-serif;
             letter-spacing: 0.5px;
             text-shadow: 1px 1px 1px rgba(0,0,0,0.1);
         }
@@ -45,7 +45,7 @@
             background-color: white;
             border: 2px solid #47975d;
             border-radius: 8px;
-            color: #47975D;
+            color: #47975d;
             font-weight: 500;
             text-decoration: none;
             transition: all 0.3s ease;
@@ -53,7 +53,7 @@
             line-height: 30px;
         }
         .navbar .nav-links a:hover {
-            background-color: #47975D;
+            background-color: #47975d;
             color: white;
             text-decoration: none;
             transform: translateY(-2px);
@@ -132,16 +132,16 @@
             display: inline-block;
             padding: 10px 20px;
             background-color: #f8f9fa;
-            border: 2px solid #47975D;
+            border: 2px solid #47975d;
             border-radius: 8px;
-            color: #47975D;
+            color: #47975d;
             font-weight: 500;
             transition: all 0.3s ease;
             margin: 5px;
             line-height: 30px;
         }
         .xinhua-link:hover {
-            background-color: #47975D;
+            background-color: #47975d;
             color: white;
             text-decoration: none;
             transform: translateY(-2px);
@@ -206,9 +206,9 @@
         <a href="/" class="logo">Insight Lab</a>
         <ul class="nav-links">
             <li><a href="/">Home</a></li>
-            <li><a href="members.html">Members</a></li>
-            <li><a href="research.html">Research</a></li>
-            <li><a href="fulllist.html">Publications</a></li>
+            <li><a href="members">Members</a></li>
+            <li><a href="research">Research</a></li>
+            <li><a href="fulllist">Publications</a></li>
         </ul>
     </nav>
 
@@ -219,7 +219,7 @@
                 <h1>马雷</h1>
                 <p><strong>北京大学国家生物医学成像科学中心 研究员（PI）、博士生导师</strong></p>
                 <p><strong>北京市杰出青年</strong></p>
-                <p><strong>2025-2026 博古睿学者</strong></p>
+                <p><strong><a href="https://mp.weixin.qq.com/s/o9HHS7PkMGN8eQ6bg6KK4w?scene=2">2025-2026 博古睿学者</a></strong></p>
                 <p><strong>北京智源人工智能研究院 智源学者</strong></p>
                 <p><strong>国家重大科技基础设施- "多模态跨尺度生物医学成像设施" 装置四负责人</strong></p>
                 <p>邮箱：<a href="mailto:lei.ma@pku.edu.cn">lei.ma@pku.edu.cn</a></p>
@@ -260,7 +260,7 @@
     </div>
 
     <div class="content-section">
-        <h1>Selected Publications[Full List]</h1>
+        <h1>Selected Publications <a href="fulllist">[Full List]</a></h1>
         <p>(# Equal Contribution, *Corresponding Author)</p>
         
         <div class="publication-item">
@@ -269,7 +269,6 @@
             <p><em>National Science Review</em></p>
         </div>
         
-        <!-- 媒体链接 - 统一格式 -->
         <div class="media-links">
             <a href="https://xhnewsapi.xinhuaxmt.com/share/news_pc?id=1059512391118848&showType=3001&utdId=null&version=4.0.7&twoShare=1&uuid=9530-453f-ec50-b6b7-d8d2" target="_blank" class="xinhua-link">Xinhua News - 2025年3月</a>
             <a href="https://h.xinhuaxmt.com/vh512/share/12443882?d=134fec8" target="_blank" class="xinhua-link">新华社 - 2025年3月</a>
@@ -281,7 +280,6 @@
             <p><em>Nature Computational Science</em></p>
         </div>
         
-        <!-- 媒体链接 - 统一格式 -->
         <div class="media-links">
             <a href="https://h.xinhuaxmt.com/vh512/share/12341233?d=134db4c" target="_blank" class="xinhua-link">新华社 - 新华视点 - 2024年12月</a>
             <a href="https://tv.cctv.com/2023/01/21/VIDEEG17Lt1mLKlDsrkqbGWG230121.shtml?spm=C55924871139.PT8hUEEDkoTi.0.0" target="_blank" class="xinhua-link">CCTV 9</a>
@@ -289,7 +287,6 @@
             <a href="https://h.xinhuaxmt.com/vh512/share/10845254" target="_blank" class="xinhua-link">新华社</a>
         </div>
         
-        <!-- 媒体链接 - 统一格式 -->
         <div class="media-links">
             <a href="https://tv.cctv.com/2025/03/01/VIDEBHUUetmfDfV1fG5N1ZXJ250301.shtml?spm=C53156045404.PKXC0xLPAnP9.0.0" target="_blank" class="xinhua-link">CCTV - 新闻直播间 - 2025年3月 - 大模型"智"在何方，数字线虫"天宝" 开启生物智能新范式</a>
         </div>
@@ -300,7 +297,6 @@
             <p><em>Cell Research</em></p>
         </div>
         
-        <!-- 媒体链接 - 统一格式 -->
         <div class="media-links">
             <a href="https://h.xinhuaxmt.com/vh512/share/10845254" target="_blank" class="xinhua-link">新华社</a>
             <a href="http://www.bj.xinhuanet.com/20240418/e84ab548d7dd4bacb928489e4c04d6a2/c.html" target="_blank" class="xinhua-link">新华社</a>
