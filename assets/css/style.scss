@@ -8,13 +8,13 @@
 }
 
 .wrapper {
-  max-width: 80rem !important;
   padding-left: 2rem !important;
   padding-right: 2rem !important;
 }
 
 @media screen and (min-width: 64em) {
   .main-content {
+    max-width: 80rem !important;
     font-size: 1rem !important;
   }
 }
