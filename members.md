@@ -88,6 +88,6 @@
     </nav>
     
     <div class="current-page-indicator">
-        <h2><a href="#">Home</a> &raquo; Research</h2>
+        <h2><a href="#">Home</a> &raquo; Members</h2>
     </div>
 </body>
