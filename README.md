@@ -28,7 +28,7 @@
             font-weight: bold;
             color: #47975d;
             text-decoration: none;
-            font-family: "HeadLineA", "SimHei", "Microsoft YaHei", "Heiti TC", "Arial Black", sans-serif;
+            font-family: "HeadLineA", "Microsoft YaHei", "Heiti TC", "Arial Black", sans-serif;
             letter-spacing: 0.5px;
             text-shadow: 1px 1px 1px rgba(0,0,0,0.1);
         }
