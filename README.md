@@ -24,11 +24,11 @@
             align-items: center;
         }
         .navbar .logo {
-            font-size: 2.4em;
+            font-size: 2.5em;
             font-weight: bold;
             color: #47975d;
             text-decoration: none;
-            font-family: "HeadLineA", "SimHei", "Heiti TC", "Arial Black", sans-serif;
+            font-family: "HeadLineA", "Arial Black", sans-serif;
             letter-spacing: 0.5px;
             text-shadow: 1px 1px 1px rgba(0,0,0,0.1);
         }
@@ -46,7 +46,8 @@
             border: 2px solid #47975d;
             border-radius: 8px;
             color: #47975d;
-            font-weight: 500;
+            font-size: 1.2em;
+            font-weight: 600;
             text-decoration: none;
             transition: all 0.3s ease;
             margin: 5px;
