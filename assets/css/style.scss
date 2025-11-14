@@ -7,16 +7,14 @@
   display: none !important;
 }
 
-@media screen and (min-width: 64em) {
-  .main-content {
-    max-width: 80rem !important;
-    font-size: 1rem !important;
-  }
+.wrapper {
+  max-width: 80rem !important;
+  padding-left: 2rem !important;
+  padding-right: 2rem !important;
 }
 
-.wrapper {  
-  max-width: 1300px;
-  width: 100%;
-  padding-left: 20px;
-  padding-right: 20px;
+@media screen and (min-width: 64em) {
+  .main-content {
+    font-size: 1rem !important;
+  }
 }
