@@ -84,7 +84,7 @@
     <nav class="navbar">
         <a href="/" class="logo">Insight Lab</a>
         <ul class="nav-links">
-            <li><a href="#">Home</a></li>
+            <li><a href="https://qkm025.github.io/maleilab.github.io/">Home</a></li>
             <li><a href="members">Members</a></li>
             <li><a href="research">Research</a></li>
             <li><a href="fulllist">Publications</a></li>
@@ -92,6 +92,6 @@
     </nav>
     
     <div class="current-page-indicator">
-        <h2><a href="#">Home</a> &raquo; Members</h2>
+        <h2><a href="https://qkm025.github.io/maleilab.github.io/">Home</a> &raquo; Members</h2>
     </div>
 </body>
