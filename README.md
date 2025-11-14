@@ -12,24 +12,23 @@
             color: #333;
             max-width: 1300px;
         }
-        /* 导航栏样式 - 修改为左侧标题、白色背景、无阴影 */
+
         .navbar {
-            background-color: white; /* 白色背景 */
+            background-color: white;
             padding: 15px 20px;
             border-radius: 8px;
             margin-bottom: 30px;
-            /* 去掉阴影效果 */
+
             display: flex;
-            justify-content: space-between; /* 标题在左，导航在右 */
+            justify-content: space-between;
             align-items: center;
         }
         .navbar .logo {
             font-size: 1.8em;
             font-weight: bold;
-            color: #47975D; /* 绿色 */
+            color: #47975d;
             text-decoration: none;
-            /* HeadLineA字体样式 */
-            font-family: 'Arial Black', 'Arial Bold', Gadget, sans-serif;
+            font-family: 'HeadLineA', Gadget, sans-serif;
             letter-spacing: 0.5px;
             text-shadow: 1px 1px 1px rgba(0,0,0,0.1);
         }
@@ -44,7 +43,7 @@
             display: inline-block;
             padding: 10px 20px;
             background-color: white;
-            border: 2px solid #47975D;
+            border: 2px solid #47975d;
             border-radius: 8px;
             color: #47975D;
             font-weight: 500;
@@ -59,7 +58,6 @@
             text-decoration: none;
             transform: translateY(-2px);
         }
-        /* 其余样式保持不变 */
         .content-section {
             margin-bottom: 30px;
         }
@@ -100,7 +98,7 @@
             border-radius: 5px;
         }
         .profile-image {
-            width: 220px;
+            width: 240px;
         }
         
         .image-group {
@@ -157,7 +155,6 @@
         }
         
         @media (max-width: 768px) {
-            /* 响应式导航栏 */
             .navbar {
                 flex-direction: column;
                 gap: 15px;
@@ -172,7 +169,7 @@
                 text-align: center;
                 margin: 5px 0;
             }
-            /* 原有响应式样式保持不变 */
+
             .float-left {
                 float: none;
                 margin-right: 0;
@@ -205,7 +202,6 @@
 </head>
 
 <body>
-    <!-- 导航栏 - 包含标题和导航链接 -->
     <nav class="navbar">
         <a href="/" class="logo">Insight Lab</a>
         <ul class="nav-links">
