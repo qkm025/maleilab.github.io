@@ -73,6 +73,10 @@
             font-size: 1.4em;
             font-weight: 600;
         }
+        .current-page-indicator a {
+            color: #47975d;
+            text-decoration: none;
+        }
     </style>
 </head>
 
