@@ -205,7 +205,7 @@
     <nav class="navbar">
         <a href="/" class="logo">Insight Lab</a>
         <ul class="nav-links">
-            <li><a href="/">Home</a></li>
+            <li><a href="#">Home</a></li>
             <li><a href="members">Members</a></li>
             <li><a href="research">Research</a></li>
             <li><a href="fulllist">Publications</a></li>
@@ -324,7 +324,7 @@
         
         <h3>2. 博士后研究员</h3>
         <p>我们正在招聘 数字生命/生物医学大模型/软件开发 方向的博士后研究员，有意者可联系<a href="mailto:lei.ma@pku.edu.cn">lei.ma@pku.edu.cn</a>或者<a href="mailto:jie.sun@pku.edu.cn">jie.sun@pku.edu.cn</a></p>
-        <p>具体招聘信息参考链接：<a href="#">北京大学未来技术学院马雷课题组招聘博士后</a></p>
+        <p>具体招聘信息参考链接：<a href="https://postdocs.pku.edu.cn/zpxx/1a180eb32e01424f9c1e94c1f509257a.htm">北京大学未来技术学院马雷课题组招聘博士后</a></p>
     </div>
 
     <div class="content-section">
