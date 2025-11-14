@@ -25,7 +25,7 @@
         }
         .navbar .logo {
             font-size: 2.5em;
-            font-weight: bold;
+            font-weight: 600;
             color: #47975d;
             text-decoration: none;
             font-family: "HeadLineA", "Arial Black", sans-serif;
@@ -47,7 +47,7 @@
             border-radius: 8px;
             color: #47975d;
             font-size: 1.2em;
-            font-weight: 600;
+            font-weight: 500;
             text-decoration: none;
             transition: all 0.3s ease;
             margin: 5px;
