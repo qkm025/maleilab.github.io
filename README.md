@@ -25,7 +25,7 @@
         }
         .navbar .logo {
             font-size: 2.5em;
-            font-weight: 600;
+            font-weight: 500;
             color: #47975d;
             text-decoration: none;
             font-family: "HeadLineA", "Arial Black", sans-serif;
@@ -46,7 +46,7 @@
             border: 2px solid #47975d;
             border-radius: 8px;
             color: #47975d;
-            font-size: 1.2em;
+            font-size: 18px;
             font-weight: 500;
             text-decoration: none;
             transition: all 0.3s ease;
@@ -59,6 +59,21 @@
             text-decoration: none;
             transform: translateY(-2px);
         }
+        
+        .current-page-indicator {
+            background-color: #f8f9fa;
+            padding: 12px 20px;
+            margin-bottom: 30px;
+            border-radius: 8px;
+            border-left: 4px solid #47975d;
+        }
+        .current-page-indicator h2 {
+            color: #2c3e50;
+            margin: 0;
+            font-size: 1.4em;
+            font-weight: 600;
+        }
+        
         .content-section {
             margin-bottom: 30px;
         }
@@ -212,6 +227,10 @@
             <li><a href="fulllist">Publications</a></li>
         </ul>
     </nav>
+    
+    <div class="current-page-indicator">
+        <h2>Home</h2>
+    </div>
 
     <div class="content-section">
         <div class="float-container">
