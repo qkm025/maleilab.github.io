@@ -24,7 +24,7 @@
             align-items: center;
         }
         .navbar .logo {
-            font-size: 2.5em;
+            font-size: 3em;
             font-weight: 500;
             color: #47975d;
             text-decoration: none;
@@ -46,7 +46,7 @@
             border: 2px solid #47975d;
             border-radius: 8px;
             color: #47975d;
-            font-size: 18px;
+            font-size: 1.15em;
             font-weight: 500;
             text-decoration: none;
             transition: all 0.3s ease;
@@ -70,8 +70,8 @@
         .current-page-indicator h2 {
             color: #2c3e50;
             margin: 0;
-            font-size: 1.4em;
-            font-weight: 600;
+            font-size: 1.2em;
+            font-weight: 500;
         }
         
         .content-section {
@@ -241,7 +241,7 @@
                 <p><strong>北京市杰出青年</strong></p>
                 <p><strong><a href="https://mp.weixin.qq.com/s/o9HHS7PkMGN8eQ6bg6KK4w?scene=2">2025-2026 博古睿学者</a></strong></p>
                 <p><strong>北京智源人工智能研究院 智源学者</strong></p>
-                <p><strong>国家重大科技基础设施- "多模态跨尺度生物医学成像设施" 装置四负责人</strong></p>
+                <p><strong>国家重大科技基础设施- “多模态跨尺度生物医学成像设施” 装置四负责人</strong></p>
                 <p>邮箱：<a href="mailto:lei.ma@pku.edu.cn">lei.ma@pku.edu.cn</a></p>
                 <p>地址：北京市海淀区颐和园路5号北京大学王克桢楼209</p>
             </div>
