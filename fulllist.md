@@ -24,7 +24,7 @@
             align-items: center;
         }
         .navbar .logo {
-            font-size: 2.5em;
+            font-size: 3em;
             font-weight: 500;
             color: #47975d;
             text-decoration: none;
@@ -46,7 +46,7 @@
             border: 2px solid #47975d;
             border-radius: 8px;
             color: #47975d;
-            font-size: 18px;
+            font-size: 1.15em;
             font-weight: 500;
             text-decoration: none;
             transition: all 0.3s ease;
@@ -71,8 +71,8 @@
         .current-page-indicator h2 {
             color: #2c3e50;
             margin: 0;
-            font-size: 1.4em;
-            font-weight: 600;
+            font-size: 1.2em;
+            font-weight: 500;
         }
         .current-page-indicator a {
             color: #47975d;
