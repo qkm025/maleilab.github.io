@@ -95,3 +95,24 @@
         <h2><a href="https://qkm025.github.io/maleilab.github.io/">Home</a> &raquo; Members</h2>
     </div>
 </body>
+
+# Staff
+王文耀
+苏峰
+何浏源
+马睿
+胡力文
+
+# Students
+赵青
+郭懿嘉
+谢盛昊
+白远希
+其木格
+
+# Alumni
+Sheng Kaiwen
+Ma Song
+Guo Ziyi
+史若画
+刘勉之
