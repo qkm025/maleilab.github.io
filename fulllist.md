@@ -97,7 +97,7 @@
             border-bottom: 2px solid #47975d;
             padding-bottom: 10px;
             margin-bottom: 20px;
-            font-size: 1.8em;
+            font-size: 2em;
         }
         
         .publication-item {
@@ -163,7 +163,7 @@
     <div class="year-section">
         <h1 class="year-title">2025</h1>
         
-        <h2>会议论文</h2>
+        <h3>会议论文</h3>
         <div class="publication-item">
             <div class="publication-title">Splats in Splats: Robust and Effective 3D Steganography towards Gaussian Splatting.</div>
             <div class="publication-authors">Yijia Guo, Wenkai Huang, Yang Li, Gaolei Li, Hang Zhang, Liwen Hu, jianhua Li, Tiejun Huang, Lei Ma*</div>
@@ -188,7 +188,7 @@
             <div class="publication-venue">AAAI 2025</div>
         </div>
         
-        <h2>期刊论文</h2>
+        <h3>期刊论文</h3>
         <div class="publication-item">
             <div class="publication-title">HCUC: Combining Holistic Consistency and Uniqueness for PET/CT Multi-modal Segmentation.</div>
             <div class="publication-authors">Yu Cai, Zhuo Yang, Lei Ma*</div>
@@ -248,7 +248,7 @@
     <div class="year-section">
         <h1 class="year-title">2024</h1>
         
-        <h2>会议论文</h2>
+        <h3>会议论文</h3>
         <div class="publication-item">
             <div class="publication-title">PRTGS: Precomputed Radiance Transfer of Gaussian Splats for Real-Time High-Quality Relighting.</div>
             <div class="publication-authors">Yijia Guo, Yuanxi Bai, Liwen Hu, Guo Ziyi, Mianzhi Liu, Yu Cai, Tiejun Huang, Lei Ma*</div>
@@ -297,7 +297,7 @@
             <div class="publication-venue">NIPS 2024</div>
         </div>
         
-        <h2>期刊论文</h2>
+        <h3>期刊论文</h3>
         <div class="publication-item">
             <div class="publication-title">An integrative data-driven model simulating C. elegans brain, body and environment interactions.</div>
             <div class="publication-authors">Mengdi Zhao, Ning Wang, Xinrui Jiang, Xiaoyang Ma, Haixin Ma, Gan He, Kai Du, Lei Ma* & Tiejun Huang</div>
@@ -357,7 +357,7 @@
     <div class="year-section">
         <h1 class="year-title">2023</h1>
         
-        <h2>会议论文</h2>
+        <h3>会议论文</h3>
         <div class="publication-item">
             <div class="publication-title">Med-UniC: Unifying Cross-Lingual Medical Vision-Language Pre-Training by Diminishing Bias.</div>
             <div class="publication-authors">Zhongwei Wan, Che Liu, Mi Zhang, Jie Fu, Benyou Wang, Sibo Cheng, Lei Ma, César Quilodrán-Casas, Rossella Arcucci</div>
@@ -370,7 +370,7 @@
             <div class="publication-venue">NeurIPS 2023</div>
         </div>
         
-        <h2>期刊论文</h2>
+        <h3>期刊论文</h3>
         <div class="publication-item">
             <div class="publication-title">A GPU-based computational framework that bridges Neuron simulation and Artificial Intelligence.</div>
             <div class="publication-authors">Yichen Zhang#, Gan He#, Lei Ma#, Xiaofei Liu, JJ Johannes Hjorth, Alexander Kozlov, Yutao He, Shenjian Zhang, Jeanette Hellgren Kotaleski, Yonghong Tian, Sten Grillner, Kai Du, Tiejun Huang</div>
@@ -430,7 +430,7 @@
     <div class="year-section">
         <h1 class="year-title">2022</h1>
         
-        <h2>会议论文</h2>
+        <h3>会议论文</h3>
         <div class="publication-item">
             <div class="publication-title">On-line Single Machine Scheduling with Release Dates and Submodular Rejection Penalties.</div>
             <div class="publication-authors">Xiaofei Liu, Yaoyu Zhu, Weidong Li, Lei Ma*</div>
@@ -467,7 +467,7 @@
             <div class="publication-venue">BIBM 2022</div>
         </div>
         
-        <h2>期刊论文</h2>
+        <h3>期刊论文</h3>
         <div class="publication-item">
             <div class="publication-title">GraphReg: Dynamical Point Cloud Registration with Geometry-aware Graph Signal Processing.</div>
             <div class="publication-authors">Mingyang Zhao, Lei Ma*, Xiaohong Jia, Dong-Ming Yan*, and Tiejun Huang</div>
