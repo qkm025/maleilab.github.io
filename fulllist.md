@@ -161,7 +161,7 @@
 <div class="publications-container">
     <!-- 2025年出版物 -->
     <div class="year-section">
-        <h2 class="year-title">2025</h2>
+        <h1 class="year-title">2025</h1>
         
         <h2>会议论文</h2>
         <div class="publication-item">
@@ -246,7 +246,7 @@
     
     <!-- 2024年出版物 -->
     <div class="year-section">
-        <h2 class="year-title">2024</h2>
+        <h1 class="year-title">2024</h1>
         
         <h2>会议论文</h2>
         <div class="publication-item">
@@ -355,7 +355,7 @@
     
     <!-- 2023年出版物 -->
     <div class="year-section">
-        <h2 class="year-title">2023</h2>
+        <h1 class="year-title">2023</h1>
         
         <h2>会议论文</h2>
         <div class="publication-item">
@@ -428,7 +428,7 @@
     
     <!-- 2022年出版物 -->
     <div class="year-section">
-        <h2 class="year-title">2022</h2>
+        <h1 class="year-title">2022</h1>
         
         <h2>会议论文</h2>
         <div class="publication-item">
