@@ -166,7 +166,7 @@
         <h3>会议论文</h3>
         <div class="publication-item">
             <div class="publication-title">Splats in Splats: Robust and Effective 3D Steganography towards Gaussian Splatting.</div>
-            <div class="publication-authors">Yijia Guo, Wenkai Huang, Yang Li, Gaolei Li, Hang Zhang, Liwen Hu, jianhua Li, Tiejun Huang, Lei Ma*</div>
+            <div class="publication-authors">Yijia Guo, Wenkai Huang, Yang Li, Gaolei Li, Hang Zhang, Liwen Hu, Jianhua Li, Tiejun Huang, Lei Ma*</div>
             <div class="publication-venue">AAAI 2026</div>
         </div>
         
