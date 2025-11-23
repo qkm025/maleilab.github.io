@@ -79,7 +79,7 @@
         }
         
         .content-section {
-            margin-bottom: 30px;
+            margin-bottom: 40px;
         }
         .content-title {
             color: #2c3e50;
