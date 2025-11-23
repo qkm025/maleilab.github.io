@@ -96,23 +96,26 @@
     </div>
 </body>
 
-# Staff
-王文耀
-苏峰
-何浏源
-马睿
-胡力文
+<div class="content-section">
+    <h1>Staff</h1>
+    <p>王文耀</p>
+    <p>苏峰</p>
+    <p>何浏源</p>
+    <p>胡力文</p>
 
-# Students
-赵青
-郭懿嘉
-谢盛昊
-白远希
-其木格
+<div class="content-section">
+    <h1>Students</h1>
+    <p>赵青</p>
+    <p>郭懿嘉</p>
+    <p>谢盛昊</p>
+    <p>马睿</p>
+    <p>白远希</p>
+    <p>其木格</p>
 
-# Alumni
-Sheng Kaiwen
-Ma Song
-Guo Ziyi
-史若画
-刘勉之
+<div class="content-section">
+    <h1>Alumni</h1>
+    <p>Sheng Kaiwen</p>
+    <p>Ma Song</p>
+    <p>Guo Ziyi</p>
+    <p>史若画</p>
+    <p>刘勉之</p>
