@@ -77,6 +77,17 @@
             color: #47975d;
             text-decoration: none;
         }
+        
+        .content-section {
+            margin-bottom: 30px;
+        }
+        .content-title {
+            color: #2c3e50;
+            border-bottom: 2px solid #47975d;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+            font-size: 2em;
+        }
     </style>
 </head>
 
@@ -97,14 +108,14 @@
 </body>
 
 <div class="content-section">
-    <h1>Staff</h1>
+    <h1 class="content-title">Staff</h1>
     <p>王文耀</p>
     <p>苏峰</p>
     <p>何浏源</p>
     <p>胡力文</p>
 
 <div class="content-section">
-    <h1>Students</h1>
+    <h1 class="content-title">Students</h1>
     <p>赵青</p>
     <p>郭懿嘉</p>
     <p>谢盛昊</p>
@@ -113,7 +124,7 @@
     <p>其木格</p>
 
 <div class="content-section">
-    <h1>Alumni</h1>
+    <h1 class="content-title">Alumni</h1>
     <p>Sheng Kaiwen</p>
     <p>Ma Song</p>
     <p>Guo Ziyi</p>
